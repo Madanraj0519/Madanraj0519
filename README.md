@@ -32,12 +32,17 @@
 <table align="center">
 <tr>
 <td>
- <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=madanraj0519&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Deva's github stats" height="200" /></a>
+ <a ><img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madanraj0519&theme=radical" alt="Madan's github stats" height="200" /></a>
 </td>
 <td>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madanraj0519&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD"/></a>
 </td>
 </tr>
 </table>
+
+<br>
+<br>
+
+[![Madan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Madanraj0519&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
