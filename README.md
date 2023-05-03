@@ -1,8 +1,9 @@
 <h1 align="center">👋Hi there, I'm Madan!</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<br>
 
+<br>
+<br>
 
 <img align="right" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coding" />
 
