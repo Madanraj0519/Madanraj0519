@@ -49,7 +49,7 @@
 
 # 📊 Graph:
 
-[![Madan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Madanraj0519&bg_color=000000&color=613583&line=613583&point=57e389&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Madanraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madanraj0519&bg_color=121212&color=9e4c98&line=9806c1&point=ededed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ----
 
