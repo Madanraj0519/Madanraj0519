@@ -9,17 +9,17 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Web Development (ReactJS) and Java as Core Language.**
+- 🔭 I’m currently working on **Web Development (NextJS) and JavaScript as a Core Language.**
 
-- 🌱 I’m currently learning **NodeJS and Data structure and Algorithm.**
+- 🌱 I’m currently learning **NextJS and Data structure and Algorithm.**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my links are available at [madanraj-portfolio](https://madanraj-portfolio.vercel.app/)
+- 👨‍💻 All of my links are available at [madanraj-portfolio](https://new-madanraj-portfolio.vercel.app/)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **madan__raj@hotmail.com**
+- 📫 How to reach me **madanraj0519@gmail.com**
 
 - ⚡ Fun fact **I think my funny**
 
