@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my links are available at [madanraj-portfolio](https://new-madanraj-portfolio.vercel.app/)
+- 👨‍💻 All of my links are available at [madanraj-portfolio](https://folio-lovat.vercel.app/)
 
 - 💬 Ask me about **anything**
 
