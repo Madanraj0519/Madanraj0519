@@ -9,9 +9,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Web Development (NextJS) and JavaScript as a Core Language.**
+- 🔭 I’m currently working on **Web Development (React.js) and JavaScript as a Core Language.**
 
-- 🌱 I’m currently learning **NextJS and Data structure and Algorithm.**
+- 🌱 I’m currently learning **JAVA, Spring Boot, AWS and Data Structure and Algorithm.**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
